@@ -1,1 +1,1 @@
-#.FastCGI 协议
+#. FastCGI 协议
